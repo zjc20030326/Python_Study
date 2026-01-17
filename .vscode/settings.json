@@ -1,10 +1,16 @@
 {
     "cSpell.words": [
+        "branchname",
+        "difftool",
         "Eckel",
         "fishc",
         "goodb",
         "isprime",
-        "kouhao"
+        "kouhao",
+        "oneline",
+        "reflog",
+        "shortlog",
+        "tagname"
     ],
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",
