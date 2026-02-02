@@ -19,6 +19,7 @@
     "namemax",
     "namemin",
     "oneline",
+    "outter",
     "prec",
     "qwertyuiop",
     "reflog",
@@ -32,5 +33,6 @@
   "python-envs.defaultEnvManager": "ms-python.python:conda",
   "python-envs.defaultPackageManager": "ms-python.python:conda",
   "python-envs.pythonProjects": [],
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+  "cursorpyright.analysis.typeCheckingMode": "basic"
 }
