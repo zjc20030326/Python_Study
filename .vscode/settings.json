@@ -63,6 +63,12 @@
   "python-envs.defaultEnvManager": "ms-python.python:conda",
   "python-envs.defaultPackageManager": "ms-python.python:conda",
   "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.ignore": [
+    "Leetcode/**"
+  ],
   "cursorpyright.analysis.typeCheckingMode": "basic",
+  "cursorpyright.analysis.ignore": [
+    "Leetcode/**"
+  ],
   "python.languageServer": "Pylance"
 }
